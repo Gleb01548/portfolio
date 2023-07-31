@@ -6,3 +6,6 @@
 
 ## Используемые библиотеки
 pandas matplotlib Scikit-learn pytroch BERT transformer
+
+## Вывод
+Построена модель для поиска изображений по текстовому описанию

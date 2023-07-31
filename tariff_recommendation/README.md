@@ -6,3 +6,6 @@
 
 ## Используемые библиотеки
 pandas matplotlib SciPy Scikit-learn torch pytorch-tabnet
+
+## Вывод
+Предсказание перехода пользователей на тарифы smart и ultra с accuracy более 0.75 возможно. 
